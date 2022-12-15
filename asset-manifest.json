@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Random_Quote/static/css/main.ab30466e.chunk.css",
-    "main.js": "/Random_Quote/static/js/main.9c2f67fd.chunk.js",
-    "main.js.map": "/Random_Quote/static/js/main.9c2f67fd.chunk.js.map",
+    "main.css": "/Random_Quote/static/css/main.200ac812.chunk.css",
+    "main.js": "/Random_Quote/static/js/main.dcb4db4d.chunk.js",
+    "main.js.map": "/Random_Quote/static/js/main.dcb4db4d.chunk.js.map",
     "runtime-main.js": "/Random_Quote/static/js/runtime-main.9a8216e7.js",
     "runtime-main.js.map": "/Random_Quote/static/js/runtime-main.9a8216e7.js.map",
     "static/js/2.1cae13c9.chunk.js": "/Random_Quote/static/js/2.1cae13c9.chunk.js",
     "static/js/2.1cae13c9.chunk.js.map": "/Random_Quote/static/js/2.1cae13c9.chunk.js.map",
     "index.html": "/Random_Quote/index.html",
-    "static/css/main.ab30466e.chunk.css.map": "/Random_Quote/static/css/main.ab30466e.chunk.css.map",
+    "static/css/main.200ac812.chunk.css.map": "/Random_Quote/static/css/main.200ac812.chunk.css.map",
     "static/js/2.1cae13c9.chunk.js.LICENSE.txt": "/Random_Quote/static/js/2.1cae13c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9a8216e7.js",
     "static/js/2.1cae13c9.chunk.js",
-    "static/css/main.ab30466e.chunk.css",
-    "static/js/main.9c2f67fd.chunk.js"
+    "static/css/main.200ac812.chunk.css",
+    "static/js/main.dcb4db4d.chunk.js"
   ]
 }
